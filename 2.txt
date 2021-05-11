@@ -1,0 +1,14 @@
+adb shell
+adb devices
+adb root
+cat 
+grep 
+find
+echo
+more
+less
+cd
+mv
+cp
+pwd
+ls
